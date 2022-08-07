@@ -3,7 +3,7 @@
 
 - 🔭 I’m interest in **Cybersecurity | Research on Computer hardware**
 
-- 🌱 I’m currently learning **AWS, NDG, MongoDB, WAP**
+- 🌱 I’m currently learning **AWS, Flutter, MongoDB, WAP**
 
 - 👯 I’m looking to learn more on **Front End & Back End Development**
 
