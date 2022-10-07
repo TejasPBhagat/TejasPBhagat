@@ -61,9 +61,12 @@
 
 ### My Total Coding Time :
 
-<!-- [![Total A Wake Time](https://wakatime.com/badge/user/52636634-764b-4af3-9268-40dde0bec3ec.svg?label=Total&style=for-the-badge)] -->
+[![Total A Wake Time](https://wakatime.com/badge/user/bbf920af-c8da-415d-bd51-a5938b9fd8a9.svg)](https://wakatime.com/@bbf920af-c8da-415d-bd51-a5938b9fd8a9)	
 
-<!-- ![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tejaspbhagat&theme=chartreuse-dark -->
+![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traclet_1303&theme=chartreuse-dark)
+
+<!-- ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=traclet_1303&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)  -->
+
 
 ## What I know and familiar with :
 
