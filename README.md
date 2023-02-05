@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tejas Bhagat (o_0) [TRACLET]</h1>
-<h3 align="center">A passionate Engineering Student ready to learn and explore.</h3>
+<h1 align="center">Hi 👋, I'm Tejas Bhagat (^_^) [TRACLET]</h1>
+
+<h3 align="center">A passionate Engineering Student ready to learn and explore.</h3> 
+<br>
 
 - 🔭 I’m interest in **Cybersecurity | Research on Computer hardware**
 
@@ -9,30 +11,53 @@
 
 - 📫 How to reach me **LinkedIn or Instragram**
 
-- ⚡ Fun fact **I love Gaming & IT**
+- ⚡ Fun fact : **I love Gaming**
 
-## Hello Forks!
-
-![Profile Views](https://komarev.com/ghpvc/?username=TejasPBhagat&color=6ad600)
+## Hello Forks! 
+![Visitors](https://komarev.com/ghpvc/?username=TejasPBhagat&color=green&style=for-the-badge)
+<br>
 
 [![Traclet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasPBhagat&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TejasPBhagat&theme=chartreuse-dark)](https://git.io/streak-stats)
+<br>
 
-## Admin/Traclet/Personal_Info$$ whoami :
+## Admin/Traclet/Personal_Infomation$ whoami :
 
-(o_0)---> I am SimpleGuy, a person who likes to manage stuff.   
-(o_0)---> I am self learner, whose interest is towards Cybersecurity and Cloud.
- 
+<details>
+     <summary><b>⚡ What kind of person I am !</b></summary><br>
 
-(0_0)---> Done various things starting from Scratch to Intermediate Level, trying to get to Advance Level soon.     
-(0_0)---> Starting to document by Journey from now on. (On the basis of reading alot of articles)
+	(o_0)---> I am SimpleGuy, a person who likes to manage stuff.
+	(o_0)---> I am self learner, whose interest is towards Cybersecurity and Cloud.
+	
+</details> 
 
-(0_o)---> Things I do other then all this : 
-	    > I love Gaming. 
-	    > Do alot of Research on new Computer and Laptop Hardware. 
-	    > Watch web series and movies whenever free. 
-	    > Exercise and Consistency. 
+<details>
+     <summary><b>☄️ My Behaviour towards Future </b></summary><br>
+	
+	(0_0)---> Done various things starting from Scratch to Intermediate Level, trying to get to Advance Level soon.     
+	(0_0)---> Starting to document by Journey from now on. (On the basis of reading alot of articles)
+	
+</details> 
+
+
+<details>
+     <summary><b>💻 When nothing is there to do</b></summary><br>
+	
+	(0_o)---> Things I do other then all this : 
+		    > I love Gaming. 
+		    > Do alot of Research on new Computer and Laptop Hardware. 
+		    > Watch web series and movies whenever free. 
+		    > Exercise and Consistency. 
+	
+</details>
+
+### My Total Coding Time :
+
+[![Total A Wake Time](https://wakatime.com/badge/user/bbf920af-c8da-415d-bd51-a5938b9fd8a9.svg)](https://wakatime.com/@bbf920af-c8da-415d-bd51-a5938b9fd8a9)	
+
+![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traclet_1303&theme=chartreuse-dark)
+
+<!-- ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=traclet_1303&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)  -->
 
 ## Find me on :
 
@@ -58,14 +83,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-### My Total Coding Time :
-
-[![Total A Wake Time](https://wakatime.com/badge/user/bbf920af-c8da-415d-bd51-a5938b9fd8a9.svg)](https://wakatime.com/@bbf920af-c8da-415d-bd51-a5938b9fd8a9)	
-
-![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=traclet_1303&theme=chartreuse-dark)
-
-<!-- ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=traclet_1303&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)  -->
 
 
 ## What I know and familiar with :
