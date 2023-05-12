@@ -5,13 +5,13 @@
 
 - 🔭 I’m interest in **Cybersecurity | Research on Computer hardware**
 
-- 🌱 I’m currently learning **AWS, Flutter, MongoDB, WAP**
+- 🌱 I’m currently learning **AWS, Docker, MongoDB, WAP**
 
-- 👯 I’m looking to learn more on **Front End & Back End Development**
+- 👯 I’m looking to learn more on **Multi-Cloud Integrations and AI**
 
 - 📫 How to reach me **LinkedIn or Instragram**
 
-- ⚡ Fun fact : **I love Gaming**
+- ⚡ Quote for Motivation : **There is Better Version of You, Who never gets tired!**
 
 ## Hello Forks! 
 ![Visitors](https://komarev.com/ghpvc/?username=TejasPBhagat&color=green&style=for-the-badge)
